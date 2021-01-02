@@ -1,0 +1,28 @@
+
+
+
+@import "./assets/apez/assets/plugin/material/material.min.css";
+@import "./assets/apez/assets/plugin/material/mdl-selectfield.min.css";
+@import "./assets/apez/assets/plugin/animateheading/animateheading.min.css";
+@import "./assets/apez/assets/plugin/owl_carousel/owl.carousel.min.css";
+@import "./assets/apez/assets/plugin/animate/animate.min.css";
+@import "./assets/apez/assets/plugin/magnific_popup/magnific-popup.min.css";
+@import "./assets/apez/assets/plugin/flexslider/flexslider.min.css";
+@import "./assets/apez/dist/css/style.css";
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
