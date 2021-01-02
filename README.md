@@ -2,7 +2,7 @@
 
 **kogan** is built by React.js
 
-*Live (https://www.korgan.com/)
+*Live (https://www.kogan.com/)
 
 
 **Browser support:**
